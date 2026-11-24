@@ -1,0 +1,4 @@
+/* Base reset. Tailwind is no longer used by the page; the design lives in site.css. */
+*, *::before, *::after { box-sizing: border-box; }
+img, svg { display: inline-block; }
+button { font: inherit; }
